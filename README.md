@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **georgesite33@gmail.com**
 
-- ⚡ Fun fact **I am a tri-athlete and into sim racing.**
+- ⚡ Fun fact **I am a tri-athlete.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgegesite&label=Profile%20views&color=0e75b6&style=flat" alt="georgegesite" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://george-gesite.vercel.app/](https://george-gesite.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://george-gesite.vercel.app/](https://george-gesite.vercel.app/)](https://portfolio-gamma-lac-71.vercel.app/)
 
 - 📫 How to reach me **georgesite33@gmail.com**
 
